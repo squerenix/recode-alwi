@@ -2674,162 +2674,162 @@ const bares = getLevelingLevel(sender)
 					break
 case 'sound':
 if (isBanned) return reply(ind.baned())
-const soun = fs.readFileSync('./muhammadalwi/dapuhuy/sound.mp3')
+const soun = fs.readFileSync('./muhammadalwi/leviana/sound.mp3')
 jougan.sendMessage(from, soun, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break 
 case 'sound1':
 if (isBanned) return reply(ind.baned())
-satu = fs.readFileSync('./muhammadalwi/dapuhuy/sound1.mp3');
+satu = fs.readFileSync('./muhammadalwi/leviana/sound1.mp3');
 jougan.sendMessage(from, satu, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound2':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound2.mp3');
+dua = fs.readFileSync('./muhammadalwi/leviana/sound2.mp3');
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound3':
 if (isBanned) return reply(ind.baned())
-tiga = fs.readFileSync('./muhammadalwi/dapuhuy/sound3.mp3');
+tiga = fs.readFileSync('./muhammadalwi/leviana/sound3.mp3');
 jougan.sendMessage(from, tiga, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound4':
 if (isBanned) return reply(ind.baned())
-empat = fs.readFileSync('./muhammadalwi/dapuhuy/sound4.mp3');
+empat = fs.readFileSync('./muhammadalwi/leviana/sound4.mp3');
 jougan.sendMessage(from, empat, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound5':
 if (isBanned) return reply(ind.baned())
-lima = fs.readFileSync('./muhammadalwi/dapuhuy/sound5.mp3');
+lima = fs.readFileSync('./muhammadalwi/leviana/sound5.mp3');
 jougan.sendMessage(from, lima, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound6':
 if (isBanned) return reply(ind.baned())
-enam = fs.readFileSync('./muhammadalwi/dapuhuy/sound6.mp3');
+enam = fs.readFileSync('./muhammadalwi/leviana/sound6.mp3');
 jougan.sendMessage(from, enam, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound7':
 if (isBanned) return reply(ind.baned())
-tujuh = fs.readFileSync('./muhammadalwi/dapuhuy/sound7.mp3');
+tujuh = fs.readFileSync('./muhammadalwi/leviana/sound7.mp3');
 jougan.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break 
 case 'sound8':
 if (isBanned) return reply(ind.baned())
-satu = fs.readFileSync('./muhammadalwi/dapuhuy/sound8.mp3');
+satu = fs.readFileSync('./muhammadalwi/leviana/sound8.mp3');
 jougan.sendMessage(from, satu, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound9':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound9.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound9.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound10':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound10.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound10.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound11':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound11.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound11.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound12':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound12.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound12.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound13':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound13.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound13.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound14':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound14.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound14.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound15':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound15.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound15.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'sound16':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/sound16.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/sound16.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'gajelas':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/gajelas.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/gajelas.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'iri':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/iri.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/iri.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'pale':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/pale.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/pale.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'paplepap':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/PapLepap.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/PapLepap.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'terpesona':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/terpesona.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/terpesona.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'alayy':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/alay.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/alay.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'bernyanyi':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/bernyanyi.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/bernyanyi.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'bwa':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/bwa.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/bwa.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'ganteng':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/ganteng.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/ganteng.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'gatal':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/gatal.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/gatal.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'ladadida':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/ladadida.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/ladadida.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'pota':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/pota.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/pota.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'tb':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/tb.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/tb.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'tengteng':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/tengteng.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/tengteng.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'welot':
 if (isBanned) return reply(ind.baned())
-dua = fs.readFileSync('./muhammadalwi/dapuhuy/welot.mp3')
+dua = fs.readFileSync('./muhammadalwi/leviana/welot.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
 case 'soundquran':
@@ -5437,27 +5437,27 @@ case 'bukatime': //by Zitsraa-BOTシ
                   }
 
 		if (budy.includes(`Bot`)) {
-        dua = fs.readFileSync('./muhammadalwi/dapuhuy/haysayabot.mp3')
+        dua = fs.readFileSync('./muhammadalwi/leviana/haysayabot.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 
                   }
                   if (budy.includes(`Ganteng`)) {
-        dua = fs.readFileSync('./muhammadalwi/dapuhuy/ganteng.mp3')
+        dua = fs.readFileSync('./muhammadalwi/leviana/ganteng.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 
                   }
                   if (budy.includes(`Tapi boong`)) {
-        dua = fs.readFileSync('./muhammadalwi/dapuhuy/tb.mp3')
+        dua = fs.readFileSync('./muhammadalwi/leviana/tb.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 
                   }
                   if (budy.includes(`Pota`)) {
-        dua = fs.readFileSync('./muhammadalwi/dapuhuy/pota.mp3')
+        dua = fs.readFileSync('./muhammadalwi/leviana/pota.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 
                   }
                   if (budy.includes(`Bernyanyi`)) {
-        dua = fs.readFileSync('./muhammadalwi/dapuhuy/bernyanyi.mp3')
+        dua = fs.readFileSync('./muhammadalwi/leviana/bernyanyi.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 
                   }
@@ -5465,12 +5465,12 @@ jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/
                   reply(`Jangan Tag Alwi Broh Dia Lagi Sibuk🗣`)
                   }
                   if (budy.includes(`bot`)) {
-        dua = fs.readFileSync('./muhammadalwi/dapuhuy/haysayabot.mp3')
+        dua = fs.readFileSync('./muhammadalwi/leviana/haysayabot.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 
                   }
                    if (budy.includes(`Iri`)) {
-        dua = fs.readFileSync('./muhammadalwi/dapuhuy/iri.mp3')
+        dua = fs.readFileSync('./muhammadalwi/leviana/iri.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 
                   }
@@ -5481,7 +5481,7 @@ jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/
 			if (body.startsWith(`${prefix}${command}`)) {
 				
                   reply(`*${pushname}*, Command *${prefix}${command}* Tidak Ada Di Dalam *${prefix}menu Jougan Bot~!*`)
-		 dua = fs.readFileSync('./muhammadalwi/dapuhuy/ndabisabasaingris.mp3')
+		 dua = fs.readFileSync('./muhammadalwi/leviana/ndabisabasaingris.mp3')
 jougan.sendMessage(from, dua, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 		
 
